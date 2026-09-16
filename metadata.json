@@ -1,0 +1,8 @@
+{
+  "name": "Photo Album",
+  "description": "An elegant, interactive photo album and gallery app to organize, view, and curate picture collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
